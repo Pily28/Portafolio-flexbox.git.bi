@@ -10,3 +10,6 @@ Using flexbox ( this one was a web created taking into accouunt a special flexbo
 
 
 
+
+
+![Portafolio flexboox](https://user-images.githubusercontent.com/87598302/145508221-e9bb2899-6395-45c5-bacf-6ada6564d97f.png)
